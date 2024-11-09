@@ -18,7 +18,7 @@ int main () {
 	CSE student ;
 	student.name = " Arjun Kishan" ;
 	student.id = "23bcs051" ;
-	cout << "Student name "<<student.name<<" and i'xd "<<setw<<student.id<<" is " ;
+	cout << "Student name "<<student.name<<" and i'xd "<<student.id<<" is " ;
 	student.lab() ;
 	
 	return 0;
